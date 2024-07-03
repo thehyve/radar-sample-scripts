@@ -47,3 +47,6 @@ npm install
 ```shell
 node app.mjs
 ```
+
+The full documentation of the SDK for different languages is available on Minio website:
+https://min.io/docs/minio/linux/developers/minio-drivers.html
